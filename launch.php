@@ -62,3 +62,4 @@ foreach ($arr1 as $value) {
         $max = $value;
 } echo "$max";
 }
+?>.php
